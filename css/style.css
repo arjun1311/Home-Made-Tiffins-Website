@@ -1,0 +1,383 @@
+body{
+	margin:0;
+	font-family:Arial;
+	
+}
+
+header,
+section,
+footer {
+    margin: 0;
+	padding:0;
+}
+
+/*  --------------------------------------  Header -------------------------------------- */
+
+header{
+	width:100%;
+	background-color:#000;
+	height:80px;
+}
+
+/*  --------------------------------------   Menu Bar -------------------------------------- */
+
+.reg a{
+	position:absolute;
+	right:10px;
+	border:1px solid white;
+	border-radius:2px;
+	display:block;
+	color:#fff;
+	font-size:15px;
+	padding:7px 10px;
+	margin:15px 20px 0 0 ;
+	text-align:center;
+	text-decoration:none;
+	float:right;
+}
+
+.reg a:hover{
+    background-color: #fff;
+	border-radius:2px;
+	color:#000;
+	text-decoration:none;
+}
+
+
+/* ------------------------------------------------------ Body ---------------------------------------------------------- */
+
+section{
+	position:relative;
+	background-color:#fff;
+}
+
+.location{
+	 position: absolute;
+    top:300px;
+    left: 50%;
+	z-index:1;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    padding: 16px 30px;
+}
+
+.responsive {
+    width: 100%;
+}
+@media only screen and (min-width: 300px) {
+.responsive {
+    height: 300px;
+}
+}
+@media only screen and (min-width: 768px) {
+.responsive {
+    height: 538px;
+}
+}
+#cont .btn {
+    position: absolute;
+    top:300px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #3498DB;
+    color: white;
+    font-size: 20px;
+    padding: 13px 25px;
+    border: none;
+    cursor: pointer;
+	outline: none;
+    border-radius: 5px;
+    text-align: center;
+	 box-shadow:0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+@media only screen and (min-width: 300px) {
+	#cont .btn {
+		top:200px;
+		font-size: 15px;
+		padding: 10px 20px;
+	}
+}
+@media only screen and (min-width: 768px) {
+	#cont .btn {
+	top:300px;
+    font-size: 20px;
+    padding: 13px 25px;
+	}
+}
+
+#cont .btn:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #2980B9;
+    color: white;
+}
+
+
+
+
+
+/* ------------------------------------------------ Login Code ----------------------------------------------*/
+
+
+.signup{
+	background:#EAECEE;
+	padding:20px 0 40px 0;
+}
+
+.login{
+	background:#EAECEE;
+	padding:66px 0 80px 0;
+}
+
+.val{
+	background:#EAECEE;
+	padding:130px 0 150px 0;
+}
+
+.login-cont{
+	width:30%;
+	height:auto;
+	margin:auto;
+	background:#fff;
+	border-radius:3px;
+	-webkit-box-shadow: 0px 0px 3px 4px #D6DBDF;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+	-moz-box-shadow:    3px 3px 3px 4px #D6DBDF;  /* Firefox 3.5 - 3.6 */
+	box-shadow:         0px 0px 3px 4px #D6DBDF;
+}
+
+.login-head{
+	padding:5px 20px;
+	border-bottom:1px solid #D6DBDF;
+}
+
+.login-body{
+	padding:20px 20px;
+}
+@media only screen and (min-width: 300px) {
+	.login-cont{
+		width:95%;
+		margin:10px;
+	}
+}
+@media only screen and (min-width: 768px) {
+	.login-cont{
+		width:35%;
+		margin:auto;
+	}
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password],  input[type=tel],  input[type=email],  input[type=date],  input[type=number]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+button:hover {
+    opacity: 0.8;
+}
+
+.psw{
+	float:right;
+}
+
+.warning{
+	background:#D4EFDF;
+}
+.warning2{
+	background:#FDEDEC;
+}
+
+/*----------------------------------------Username Display-------------------------------------------*/
+
+
+.username .menu-content a{
+position:absolute;
+color:#fff;
+float:right;
+font-size:15px;
+position:relative;
+border:1px solid white;
+border-radius:2px;
+display:block;
+padding:7px 10px;
+margin:15px 20px 0 0 ;
+text-align:center;
+text-decoration:none;
+}
+.username .menu-content a .glyphicon{
+	font-size:12px;
+	margin-left:4px;
+}
+.username .menu-content a:hover{
+    background-color: #fff;
+	border-radius:2px;
+	color:#000;
+	text-decoration:none;
+}
+
+.username .arrow-up{
+    width: 0;
+    height: 0;
+    position: absolute;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #fff;
+    right:45px;
+    top: 55px;
+	display:none;
+	z-index:1;
+}
+
+.username .name-form{
+padding-top:10px;
+position:absolute;
+width:200px;
+height:auto;
+background:#fff;
+right:20px;
+top:60px;
+border-radius:5px;
+display:none;
+z-index:1;
+box-shadow: 0px 2px 16px 0px rgba(0,0,0,0.2);
+}
+.username .name-form ul{
+float:left;
+margin-left:-20px;
+}
+
+.username .name-form ul li{
+list-style-type:none;
+font-size:15px;
+line-height:40px; 
+}
+.username .name-form ul li a{
+text-decoration:none;
+color:black;
+margin-left:10px;
+font-weight:bold;
+}
+.username .name-form ul li a:hover{
+color:#888;
+}
+
+
+
+
+/*------------------------------*/
+.msg{
+	background:#C81D0C;
+	color:white;
+	text-align:center;
+	font-size:15px;
+	padding:5px;
+	font-weight:bold;
+	text-shadow:2px 2px 4px #000000;
+}
+	
+	/* The Close Button */
+.close {
+    color: #000;
+	margin-right:25px;
+	margin-top:5px;
+    float: right;
+    font-size: 28px;
+	width:10px;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+	outline:none;
+}
+.s-container{
+	margin:20px 100px;
+	padding:10px 10px;
+}
+.area-list h4{
+	font-size:25px;
+}
+.area-list table, td, th {
+	padding: 15px;
+	padding-left:100px;
+}
+
+.area-list table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.area-list th {
+    height: 50px;
+}
+.area-list td {
+    height: 50px;
+    vertical-align: center;
+}
+/*--------------------------------
+
+
+
+/*---------------------------------------------------Footer--------------------------------------------------*/
+#footer{
+	width:100%;
+	padding:10px 50px;
+	background:#111;
+	font-size:15px;
+	font-weight:50px;
+	color:#fff;
+}
+.foot .social {
+	padding-left:40px;
+	font-size:25px;
+}
+.foot .social span a{
+	margin-right:10px;
+	color:white;
+}
+.foot .social span a:hover{
+	color:#ccc;
+}	
+.foot p{
+	text-align:center;
+	font-size:15px;
+}
+.foot h4{
+	color:#AEB6BF;
+	font-weight:bold;
+	font-size:16px;
+	padding-left:50px;
+	margin-bottom:20px;
+}
+.foot ul li{
+	list-style:none;
+	padding-left:50px;
+	text-align:left;
+	margin-top:5px;
+}
+.foot ul li a{
+	color:#fff;
+	text-decoration:none;
+}
+.foot ul li a:hover{
+	color:#ccc;
+}

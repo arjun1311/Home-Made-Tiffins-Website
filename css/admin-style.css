@@ -1,0 +1,12 @@
+body{
+	margin:0;
+	font-family:Arial;
+	
+}
+
+header,
+section,
+footer {
+    margin: 0;
+	padding:0;
+}

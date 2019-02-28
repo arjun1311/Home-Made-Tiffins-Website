@@ -1,0 +1,225 @@
+[24-Oct-2018 21:03:57 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 122
+[24-Oct-2018 21:03:57 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 138
+[24-Oct-2018 21:03:57 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 188
+[24-Oct-2018 21:03:57 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 234
+[24-Oct-2018 21:04:02 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 122
+[24-Oct-2018 21:04:02 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 138
+[24-Oct-2018 21:04:02 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 188
+[24-Oct-2018 21:04:02 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 234
+[24-Oct-2018 21:04:48 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 122
+[24-Oct-2018 21:04:48 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 138
+[24-Oct-2018 21:04:48 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 188
+[24-Oct-2018 21:04:48 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 234
+[24-Oct-2018 21:05:09 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 122
+[24-Oct-2018 21:05:09 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 138
+[24-Oct-2018 21:05:09 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 188
+[24-Oct-2018 21:05:09 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 234
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oname in /home/d4brtkn29t0z/public_html/cod.php on line 96
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 98
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/cod.php on line 104
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/cod.php on line 104
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 128
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 134
+[24-Oct-2018 17:42:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/cod.php on line 135
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 137
+[24-Oct-2018 17:42:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/cod.php on line 138
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 140
+[24-Oct-2018 17:42:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/cod.php on line 141
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oname in /home/d4brtkn29t0z/public_html/cod.php on line 145
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 148
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 198
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/cod.php on line 202
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oname in /home/d4brtkn29t0z/public_html/cod.php on line 204
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 207
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oname in /home/d4brtkn29t0z/public_html/cod.php on line 220
+[24-Oct-2018 17:42:00 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 223
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oname in /home/d4brtkn29t0z/public_html/cod.php on line 96
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 98
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/cod.php on line 104
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/cod.php on line 104
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 128
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 134
+[24-Oct-2018 18:23:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/cod.php on line 135
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 137
+[24-Oct-2018 18:23:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/cod.php on line 138
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 140
+[24-Oct-2018 18:23:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/cod.php on line 141
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oname in /home/d4brtkn29t0z/public_html/cod.php on line 145
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 148
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 198
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/cod.php on line 202
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oname in /home/d4brtkn29t0z/public_html/cod.php on line 204
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 207
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oname in /home/d4brtkn29t0z/public_html/cod.php on line 220
+[24-Oct-2018 18:23:52 UTC] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/cod.php on line 223
+[24-Oct-2018 18:27:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/d4brtkn29t0z/public_html/cod.php on line 315
+[24-Oct-2018 18:27:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/d4brtkn29t0z/public_html/cod.php on line 315
+[24-Oct-2018 18:27:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/d4brtkn29t0z/public_html/cod.php on line 315
+[24-Oct-2018 18:27:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/d4brtkn29t0z/public_html/cod.php on line 315
+[24-Oct-2018 18:28:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/d4brtkn29t0z/public_html/cod.php on line 315
+[25-Oct-2018 00:00:05 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 122
+[25-Oct-2018 00:00:05 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 138
+[25-Oct-2018 00:00:05 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 188
+[25-Oct-2018 00:00:05 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 234
+[25-Oct-2018 00:01:28 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 122
+[25-Oct-2018 00:01:28 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 138
+[25-Oct-2018 00:01:28 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 188
+[25-Oct-2018 00:01:28 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/Myorders.php on line 234
+[28-Oct-2018 06:24:07 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 06:24:07 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: status in /home/d4brtkn29t0z/public_html/fail.php on line 55
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: firstname in /home/d4brtkn29t0z/public_html/fail.php on line 56
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: amount in /home/d4brtkn29t0z/public_html/fail.php on line 57
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: txnid in /home/d4brtkn29t0z/public_html/fail.php on line 58
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: hash in /home/d4brtkn29t0z/public_html/fail.php on line 59
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: key in /home/d4brtkn29t0z/public_html/fail.php on line 60
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: productinfo in /home/d4brtkn29t0z/public_html/fail.php on line 61
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/fail.php on line 62
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: udf1 in /home/d4brtkn29t0z/public_html/fail.php on line 63
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined index: udf2 in /home/d4brtkn29t0z/public_html/fail.php on line 64
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 09:15:25 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: status in /home/d4brtkn29t0z/public_html/fail.php on line 55
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: firstname in /home/d4brtkn29t0z/public_html/fail.php on line 56
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: amount in /home/d4brtkn29t0z/public_html/fail.php on line 57
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: txnid in /home/d4brtkn29t0z/public_html/fail.php on line 58
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: hash in /home/d4brtkn29t0z/public_html/fail.php on line 59
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: key in /home/d4brtkn29t0z/public_html/fail.php on line 60
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: productinfo in /home/d4brtkn29t0z/public_html/fail.php on line 61
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/fail.php on line 62
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: udf1 in /home/d4brtkn29t0z/public_html/fail.php on line 63
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined index: udf2 in /home/d4brtkn29t0z/public_html/fail.php on line 64
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 09:25:35 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: status in /home/d4brtkn29t0z/public_html/fail.php on line 55
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: firstname in /home/d4brtkn29t0z/public_html/fail.php on line 56
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: amount in /home/d4brtkn29t0z/public_html/fail.php on line 57
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: txnid in /home/d4brtkn29t0z/public_html/fail.php on line 58
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: hash in /home/d4brtkn29t0z/public_html/fail.php on line 59
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: key in /home/d4brtkn29t0z/public_html/fail.php on line 60
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: productinfo in /home/d4brtkn29t0z/public_html/fail.php on line 61
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/fail.php on line 62
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: udf1 in /home/d4brtkn29t0z/public_html/fail.php on line 63
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined index: udf2 in /home/d4brtkn29t0z/public_html/fail.php on line 64
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 09:52:18 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: status in /home/d4brtkn29t0z/public_html/fail.php on line 55
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: firstname in /home/d4brtkn29t0z/public_html/fail.php on line 56
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: amount in /home/d4brtkn29t0z/public_html/fail.php on line 57
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: txnid in /home/d4brtkn29t0z/public_html/fail.php on line 58
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: hash in /home/d4brtkn29t0z/public_html/fail.php on line 59
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: key in /home/d4brtkn29t0z/public_html/fail.php on line 60
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: productinfo in /home/d4brtkn29t0z/public_html/fail.php on line 61
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/fail.php on line 62
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: udf1 in /home/d4brtkn29t0z/public_html/fail.php on line 63
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined index: udf2 in /home/d4brtkn29t0z/public_html/fail.php on line 64
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 09:52:22 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[28-Oct-2018 18:40:31 UTC] PHP Notice:  Undefined index: psw in /home/d4brtkn29t0z/public_html/resetpassword.php on line 11
+[28-Oct-2018 18:40:31 UTC] PHP Notice:  Undefined index: psw2 in /home/d4brtkn29t0z/public_html/resetpassword.php on line 12
+[28-Oct-2018 18:40:43 UTC] PHP Notice:  Undefined index: psw in /home/d4brtkn29t0z/public_html/resetpassword.php on line 11
+[28-Oct-2018 18:40:43 UTC] PHP Notice:  Undefined index: psw2 in /home/d4brtkn29t0z/public_html/resetpassword.php on line 12
+[28-Oct-2018 18:41:25 UTC] PHP Notice:  Undefined index: psw in /home/d4brtkn29t0z/public_html/resetpassword.php on line 11
+[28-Oct-2018 18:41:25 UTC] PHP Notice:  Undefined index: psw2 in /home/d4brtkn29t0z/public_html/resetpassword.php on line 12
+[28-Oct-2018 18:41:36 UTC] PHP Notice:  Undefined index: psw in /home/d4brtkn29t0z/public_html/resetpassword.php on line 11
+[28-Oct-2018 18:41:36 UTC] PHP Notice:  Undefined index: psw2 in /home/d4brtkn29t0z/public_html/resetpassword.php on line 12
+[28-Oct-2018 18:42:20 UTC] PHP Notice:  Undefined index: psw in /home/d4brtkn29t0z/public_html/resetpassword.php on line 11
+[28-Oct-2018 18:42:20 UTC] PHP Notice:  Undefined index: psw2 in /home/d4brtkn29t0z/public_html/resetpassword.php on line 12
+[28-Oct-2018 18:43:25 UTC] PHP Notice:  Undefined index: fp_code in /home/d4brtkn29t0z/public_html/resetpassword.php on line 10
+[28-Oct-2018 18:43:25 UTC] PHP Notice:  Undefined index: psw in /home/d4brtkn29t0z/public_html/resetpassword.php on line 11
+[28-Oct-2018 18:43:25 UTC] PHP Notice:  Undefined index: psw2 in /home/d4brtkn29t0z/public_html/resetpassword.php on line 12
+[28-Oct-2018 18:48:34 UTC] PHP Notice:  Undefined index: fp_code in /home/d4brtkn29t0z/public_html/resetpassword.php on line 10
+[28-Oct-2018 18:48:52 UTC] PHP Notice:  Undefined variable: row in /home/d4brtkn29t0z/public_html/resetpassword.php on line 24
+[28-Oct-2018 19:21:42 UTC] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/resetpassword.php on line 10
+[28-Oct-2018 19:21:42 UTC] PHP Notice:  Undefined index: fp_code in /home/d4brtkn29t0z/public_html/resetpassword.php on line 11
+[28-Oct-2018 19:21:43 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/d4brtkn29t0z/public_html/resetpassword.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/d4brtkn29t0z/public_html/resetpassword.php on line 20
+[31-Oct-2018 10:31:36 UTC] PHP Notice:  Undefined index: email in /home/d4brtkn29t0z/public_html/cod.php on line 4
+[14-Nov-2018 14:21:09 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[14-Nov-2018 14:21:09 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 136
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: quantity in /home/d4brtkn29t0z/public_html/order-confirm.php on line 138
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 140
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: pickupadr in /home/d4brtkn29t0z/public_html/order-confirm.php on line 153
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 154
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 161
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 162
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: pickupadr in /home/d4brtkn29t0z/public_html/order-confirm.php on line 178
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 179
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 186
+[14-Nov-2018 22:07:15 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 187
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 136
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: quantity in /home/d4brtkn29t0z/public_html/order-confirm.php on line 138
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 140
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: pickupadr in /home/d4brtkn29t0z/public_html/order-confirm.php on line 153
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 154
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 161
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 162
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: pickupadr in /home/d4brtkn29t0z/public_html/order-confirm.php on line 178
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 179
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 186
+[14-Nov-2018 23:13:42 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 187
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 136
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: quantity in /home/d4brtkn29t0z/public_html/order-confirm.php on line 138
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 140
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: adrid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 150
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 151
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: pickupadr in /home/d4brtkn29t0z/public_html/order-confirm.php on line 153
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 154
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 161
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 162
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: adrid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 175
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 176
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: pickupadr in /home/d4brtkn29t0z/public_html/order-confirm.php on line 178
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 179
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 186
+[14-Nov-2018 23:21:32 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 187
+[15-Nov-2018 09:17:56 UTC] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/d4brtkn29t0z/public_html/mailscript.php on line 9
+[15-Nov-2018 09:18:07 UTC] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/d4brtkn29t0z/public_html/mailscript.php on line 9
+[15-Nov-2018 09:18:32 UTC] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE) in /home/d4brtkn29t0z/public_html/mailscript.php on line 9
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 136
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: quantity in /home/d4brtkn29t0z/public_html/order-confirm.php on line 138
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 140
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: adrid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 150
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 151
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: pickupadr in /home/d4brtkn29t0z/public_html/order-confirm.php on line 153
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 154
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 161
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 162
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: adrid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 175
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 176
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: pickupadr in /home/d4brtkn29t0z/public_html/order-confirm.php on line 178
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 179
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/d4brtkn29t0z/public_html/order-confirm.php on line 186
+[26-Nov-2018 20:18:06 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 187
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Notice:  Undefined index: adrid-check in /home/d4brtkn29t0z/public_html/order-confirm.php on line 45
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Notice:  Undefined index: pickupadrid-check in /home/d4brtkn29t0z/public_html/order-confirm.php on line 46
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 136
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 151
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 154
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 162
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 176
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 179
+[26-Nov-2018 20:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 187
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Notice:  Undefined index: adrid-check in /home/d4brtkn29t0z/public_html/order-confirm.php on line 45
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Notice:  Undefined index: pickupadrid-check in /home/d4brtkn29t0z/public_html/order-confirm.php on line 46
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 136
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 151
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 154
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 162
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 176
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 179
+[26-Nov-2018 20:18:16 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 187
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Notice:  Undefined index: adrid-check in /home/d4brtkn29t0z/public_html/order-confirm.php on line 45
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Notice:  Undefined index: pickupadrid-check in /home/d4brtkn29t0z/public_html/order-confirm.php on line 46
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 136
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 151
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 154
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 162
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 176
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/d4brtkn29t0z/public_html/order-confirm.php on line 179
+[26-Nov-2018 20:18:17 Asia/Kolkata] PHP Notice:  Undefined variable: oid in /home/d4brtkn29t0z/public_html/order-confirm.php on line 187
+[26-Nov-2018 14:49:17 UTC] PHP Notice:  Undefined variable: omob in /home/d4brtkn29t0z/public_html/fail.php on line 94
+[26-Nov-2018 14:49:17 UTC] PHP Notice:  Undefined variable: pickupmob in /home/d4brtkn29t0z/public_html/fail.php on line 94
